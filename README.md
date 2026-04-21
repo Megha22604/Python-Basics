@@ -1,21 +1,56 @@
-# Python Basics Practice - Day 1
+# 🐍 Python Practice Journey
 
-## 🎯 What I Built
-- **FizzBuzz Program**: Prints numbers 1-100, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz"
+> Daily code as I prepare for AI/ML internships | Target: July 2026 | Maharashtra
 
-## 📚 Skills Demonstrated
-- Python variables and data types
-- Conditional statements (if/else)
-- Loops (for/while)
-- Basic problem-solving
+---
 
-## 🚀 How to Run
+## 📊 Progress
+
+| Day | Project | Status |
+|-----|---------|--------|
+| 1️⃣ | FizzBuzz | ✅ Done |
+| 2️⃣ | Grocery List Manager | ✅ Done |
+| 3️⃣ | Coming soon | ⏳ |
+
+---
+
+## 📁 Projects
+
+### 1️⃣ FizzBuzz (`fizzbuzz.py`)
+
+**What it does:**
+Print numbers 1–100.  
+🍀 Multiple of 3 → `Fizz`  
+🌊 Multiple of 5 → `Buzz`  
+⭐ Multiple of both → `FizzBuzz`
+
+**What I learned:**
+- `for` loops to repeat actions
+- `if/elif/else` for decision making
+- `%` modulo operator to check remainders
+- `print()` with formatted output
+
+---
+
+### 2️⃣ Grocery List Manager (`grocery_list.py`)
+
+**What it does:**
+🛒 Add items  
+❌ Remove items  
+👀 View list with numbers  
+🚪 Exit program
+
+**What I learned:**
+- `while True` loop for continuous menu
+- Lists: `append()` to add, `remove()` to delete
+- `len()` to check list size
+- `in` operator to check if item exists
+- User input handling with `input()`
+- `f-strings` for clean print formatting
+
+---
+
+## 🚀 Run It
+
 ```bash```
-python FizzBuzz.py
-
-📅 Part Of: 
-This is Day 1 of my 10-week AI/ML internship preparation journey.
-Target: AI/ML Internship by July 2026
-
-🔗 Connect With Me
-www.linkedin.com/in/megha-patil-a2a294312
+python grocery_list.py
