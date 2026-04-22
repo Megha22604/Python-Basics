@@ -10,7 +10,7 @@
 |-----|---------|--------|
 | 1️⃣ | FizzBuzz | ✅ Done |
 | 2️⃣ | Grocery List Manager | ✅ Done |
-| 3️⃣ | Coming soon | ⏳ |
+| 3️⃣ | Conditionals | ✅ Done |
 
 ---
 
@@ -54,3 +54,18 @@ Print numbers 1–100.
 
 ```bash```
 python grocery_list.py
+
+
+### 3️⃣ Conditionals Practice (`conditionals_practice.py`)
+
+**Programs built:**
+- Voting Eligibility Checker
+- Grade Calculator
+- Number Guessing Game
+- Odd/Even Checker
+
+**What I learned:**
+- `if/elif/else` statements
+- Nested conditionals
+- `and` / `or` operators
+- Modulo operator `%` for odd/even
