@@ -62,10 +62,10 @@ python grocery_list.py
 - Voting Eligibility Checker
 - Grade Calculator
 - Number Guessing Game
-- Odd/Even Checker
+
 
 **What I learned:**
 - `if/elif/else` statements
 - Nested conditionals
 - `and` / `or` operators
-- Modulo operator `%` for odd/even
+
