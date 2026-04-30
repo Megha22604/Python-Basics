@@ -6,91 +6,55 @@
 
 ## 📊 Progress
 
-| Day | Project | Status |
-|-----|---------|--------|
-| 1️⃣ | FizzBuzz | ✅ Done |
-| 2️⃣ | Grocery List Manager | ✅ Done |
-| 3️⃣ | Conditionals (4 Programs) | ✅ Done |
-| 4️⃣ | Calculator | ✅ Done |
-| 5️⃣ | Coming Soon | ⏳ |
+| Day | Topic | Project | Status |
+|-----|-------|---------|--------|
+| 1️⃣ | Python Basics | FizzBuzz | ✅ Done |
+| 2️⃣ | Lists & Loops | Grocery List Manager | ✅ Done |
+| 3️⃣ | Conditionals | Voting, Grade, Guess, Odd/Even | ✅ Done |
+| 4️⃣ | Functions | Calculator | ✅ Done |
+| 5️⃣ | Pandas + EDA | Pulse 2026 Dataset Analysis | ✅ Done |
+| 6️⃣ | Data Quality | Missing Values Check | ✅ Done |
+| 7️⃣ | Weekly Review | Week 1 Progress | ✅ Done |
+| 8️⃣ | NumPy | Arrays & Reshape (2D ↔ 3D) | ✅ Done |
 
 ---
 
 ## 📁 Projects
 
 ### 1️⃣ FizzBuzz (`fizzbuzz.py`)
-
-**What it does:**
-Print numbers 1–100.  
-🍀 Multiple of 3 → `Fizz`  
-🌊 Multiple of 5 → `Buzz`  
-⭐ Multiple of both → `FizzBuzz`
-
-**What I learned:**
-- `for` loops to repeat actions
-- `if/elif/else` for decision making
-- `%` modulo operator to check remainders
-- `print()` with formatted output
-
----
+Print numbers 1–100. Multiples of 3 → Fizz, 5 → Buzz, both → FizzBuzz.
 
 ### 2️⃣ Grocery List Manager (`grocery_list.py`)
-
-**What it does:**
-🛒 Add items  
-❌ Remove items  
-👀 View list with numbers  
-🚪 Exit program
-
-**What I learned:**
-- `while True` loop for continuous menu
-- Lists: `append()` to add, `remove()` to delete
-- `len()` to check list size
-- `in` operator to check if item exists
-- User input handling with `input()`
-- `f-strings` for clean print formatting
-
----
+Add, remove, view items with interactive menu.
 
 ### 3️⃣ Conditionals Practice (`conditionals_practice.py`)
+4 programs: Voting Eligibility, Grade Calculator, Number Guessing, Odd/Even Checker.
 
-**What it does:**
-4 programs in one file:
+### 4️⃣ Calculator (`calculator.py`)
+Add, subtract, multiply, divide, modulus. Handles division by zero.
 
-| Program | What it checks |
-|---------|----------------|
-| Voting Eligibility | Age ≥ 18 AND Indian citizen |
-| Grade Calculator | Marks → A+, A, B, C, D, F |
-| Number Guessing Game | Guess secret number (7) |
-| Odd/Even Checker | Positive/Negative + Odd/Even |
+### 5️⃣ Pandas EDA (`pandas_analysis.py`)
+Loaded Pulse 2026 dataset (50,000 rows, 14 columns). Used .head(), .describe(), .shape.
 
-**What I learned:**
-- `if/elif/else` statements
-- Nested conditionals
-- `and` / `or` operators
-- Modulo operator `%` for odd/even
-- Multiple conditions in one program
+### 6️⃣ Data Quality (`data_analyzer.py`)
+Missing values check on dataset.
+
+### 7️⃣ NumPy Reshape (`numpy_reshape.py`)
+Created 1D, 2D, 3D arrays. Practiced reshape: 2D → 3D and 3D → 3D.
 
 ---
 
-### 4️⃣ Calculator (`calculator.py`)
+## 🚀 How to Run
 
-**What it does:**
-🧮 Full functional calculator
+```bash```
+python filename.py
 
-| Operation | Symbol |
-|-----------|--------|
-| Addition | ➕ |
-| Subtraction | ➖ |
-| Multiplication | ✖️ |
-| Division | ➗ |
-| Modulus (Remainder) | % |
-| Exit | 👋 |
+🎯 Goal
+AI/ML Internship | Maharashtra (Pune/Mumbai) | July 2026
 
-**What I learned:**
-- Functions with `def`
-- Parameters and return values (coming soon)
-- `float()` for decimal numbers
-- Division by zero handling
-- Clean menu system with emojis
+🔗 Connect
+[🎯 Goal
+AI/ML Internship | Maharashtra (Pune/Mumbai) | July 2026
 
+🔗 Connect
+www.linkedin.com/in/megha-patil-a2a294312
